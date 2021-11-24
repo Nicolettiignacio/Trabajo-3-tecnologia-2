@@ -1,0 +1,124 @@
+{   "audio" : "audios/proyecto.mp3",
+    "modelo":"modelos/trabajoFinal.glb",
+    "fondo":"rgb(0,20,50)",
+    "data" :
+        [
+            {
+                 "tiempo":"00:00",
+                 "camara":"1Camara1",
+                 "target":"1Target1",
+                 "nombre":"Pasillo"
+            },
+            {
+                 "tiempo":"00:08",
+                 "camara":"1Camara2",
+                 "target":"1Target2",
+                 "nombre":"Cuadro metamorfosis",
+                 "duracion":2000
+            },
+            {
+                 "tiempo":"00:12",
+                 "camara":"1Camara3",
+                 "target":"1Target3",
+                 "nombre":"Cuadro Kafka",
+                 "duracion":4000
+            },
+            {
+                 "tiempo":"00:16",
+                 "camara":"1Camara4",
+                 "duracion":4000,
+                 "target":"1Target4",
+                 "nombre":"Violin"
+            },
+            {
+                 "tiempo":"00:19",
+                 "camara":"1Camara5",
+                 "duracion":4000,
+                 "target":"1Target5",
+                 "nombre":"PuertaHabitacion"
+            },
+            {
+               "tiempo":"00:22",
+               "camara":"1Camara5(2)",
+               "duracion":3000,
+               "target":"1Target5(2)",
+               "nombre":"PuertaHabitacion"
+          },
+          {
+               "tiempo":"00:25",
+               "camara":"1Camara5(3)",
+               "duracion":1500,
+               "target":"1Target5(3)",
+               "nombre":"PuertaHabitacion"
+          },
+          {
+               "tiempo":"00:26",
+               "camara":"1Camara5(4)",
+               "duracion":1500,
+               "target":"1Target5(4)",
+               "nombre":"PuertaHabitacion"
+          },
+            {
+               "tiempo":"00:32",
+               "camara":"1Camara6",
+               "duracion":4000,
+               "target":"1Target6",
+               "nombre":"Cucaracha"
+          },
+          {
+               "tiempo":"00:38",
+               "camara":"1Camara6(2)",
+               "duracion":1500,
+               "target":"1Target6(2)",
+               "nombre":"Cucaracha"
+          },
+          {
+               "tiempo":"00:40",
+               "camara":"1Camara7",
+               "duracion":4000,
+               "target":"1Target7",
+               "nombre":"Colcha"
+          },
+
+          {
+               "tiempo":"00:50",
+               "camara":"1Camara8",
+               "duracion":4000,
+               "target":"1Target8",
+               "nombre":"CuerpoCucaracha"
+          },
+
+          {
+               "tiempo":"00:60",
+               "camara":"1Camara9",
+               "duracion":4000,
+               "target":"1Target9",
+               "nombre":"HabitacionGeneral"
+          },
+          {
+               "tiempo":"00:68",
+               "camara":"1Camara10",
+               "duracion":4000,
+               "target":"1Target10",
+               "nombre":"Paños"
+          },
+          {
+               "tiempo":"00:74",
+               "camara":"1Camara11",
+               "duracion":4000,
+               "target":"1Target11",
+               "nombre":"Estampa"
+          },
+          {
+               "tiempo":"00:100",
+               "camara":"1Camara12",
+               "duracion":4000,
+               "target":"1Target12",
+               "nombre":"Ventana"
+          }
+
+
+
+
+        ]
+}
